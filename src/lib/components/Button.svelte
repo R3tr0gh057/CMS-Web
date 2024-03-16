@@ -16,6 +16,8 @@
 		color: #fff;
 		display: flex;
 		align-items: center;
+		/* Centers the button text*/
+		justify-content: center;
 	}
 
 	.search {
